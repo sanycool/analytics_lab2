@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+coverage/
+htmlcov/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+.jupyter/
+
+# IDE and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Build and packaging
+build/
+dist/
+*.egg-info/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+~$*
+
+# Generated reports and data exports
+*.html
+plots/
+reports/
+*.png
+*.jpg
+*.jpeg
+*.svg
+*.xlsx
+*.pkl
+*.joblib
+
+лекция_PA_*.txt
+Лабораторная работа №2.md
